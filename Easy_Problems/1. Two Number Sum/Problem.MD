@@ -3,15 +3,15 @@
 
 ## Problem Definition
 
-<p>Given an array/list of integers and a target(integer), return the indices of the pair of numbers such that they add up to the target.</p>
+<p>Given an array/list of integers and a target(integer), return whether or not there is a pair of numbers such that they add up to the target.</p>
 <b>Aim: Solve with Minimum Time Complexity and Space Complexity.</b>
 
 ## Important Considerations
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+- Return the pair of numbers from the function. 
+- Return empty list if numbers are not fond.
+- The integer list is not sorted.
+- There can be positive and negative integers.
 
 
 ## Example
@@ -26,4 +26,4 @@ target = 10
 
 ## Solutions
 
-1. Python Implementation: [Solution](Python/)
+1. Python Implementations: [Solution](Python/)
