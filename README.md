@@ -1,56 +1,21 @@
-"# AlgoExpert-Algorithms" 
+# AlgoExpert Algorithms Interview Questions
 
-# Project Title
+The Repository contains Problems and Solutions for the AlgoExpert Algorithms Interview Questions. Solutions will be available in three languages: Python, Java and JavaScript. 
 
-A brief description of what this project does and who it's for
+![AlgoExpert](/assets/logo.png)
 
-
-## Badges
-
-Add badges from somewhere like: [shields.io](https://shields.io/)
-
-[![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
+![GitHub repo size](https://img.shields.io/github/repo-size/LasalJayawardena/AlgoExpert-Algorithms)
+[![Active](http://img.shields.io/badge/Status-Active-blue.svg)](https://github.com/LasalJayawardena/AlgoExpert-Algorithms)
+[![Generic badge](https://img.shields.io/badge/lang-python-yellow.svg)](https://www.python.org/)
+[![Generic badge](https://img.shields.io/badge/lang-java-yellow.svg)](https://www.java.com/)
+[![Generic badge](https://img.shields.io/badge/lang-javascript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Generic badge](https://img.shields.io/badge/last%20updated-28--08--2021-pink)](https://github.com/LasalJayawardena/AlgoExpert-Algorithms)
 
 ## Feedback
 
-If you have any feedback, please reach out to us at fake@fake.com
-
-
-## 🚀 About Me
-I'm a full stack developer...
-
+If you have any feedback, please reach out to me via my socials. Hope you enjoy the Repo !!!
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Features
-
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lasal-jayawardena/)
+[![github](https://img.shields.io/badge/github-1DA1F2?style=for-the-badge&logo=Github&logoColor=white)](hhttps://github.com/LasalJayawardena)
