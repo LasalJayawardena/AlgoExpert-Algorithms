@@ -28,3 +28,4 @@ target = 10
 
 1. Python Implementations: [Solution](Python/)
 2. Java Implementations: [Solution](Java/)
+2. JavaScript Implementations: [Solution](Javascript/)
