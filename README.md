@@ -14,6 +14,18 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 [![Generic badge](https://img.shields.io/badge/lang-javascript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Generic badge](https://img.shields.io/badge/last%20updated-28--08--2021-pink)](https://github.com/LasalJayawardena/AlgoExpert-Algorithms)
 
+## Table of Content
+
+#### Problem Difficulty:
+🟩 : Easy
+🟦 : Medium
+🟥 : Hard
+⬛ : Very Hard
+
+| Problem ID  | Problem Statement | Difficulty | Solution |
+| :------: | ----------------- | :--------: | -------- |
+| 001 | Two Number Sum | 🟩 | [Python](/Easy_Problems/1.%20Two%20Number%20Sum/Python/) <br> [Java](/Easy_Problems/1.%20Two%20Number%20Sum/Java/) <br> [JavaScript](/Easy_Problems/1.%20Two%20Number%20Sum/Javascript/) |
+
 ## Feedback
 
 If you have any feedback, please reach out to me via my socials. Hope you enjoy the Repo !!!
