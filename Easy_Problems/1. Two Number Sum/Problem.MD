@@ -27,3 +27,4 @@ target = 10
 ## Solutions
 
 1. Python Implementations: [Solution](Python/)
+2. Java Implementations: [Solution](Java/)
