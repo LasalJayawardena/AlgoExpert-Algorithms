@@ -7,7 +7,6 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 <p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
-![GitHub repo size](https://img.shields.io/github/repo-size/LasalJayawardena/AlgoExpert-Algorithms)
 [![Active](http://img.shields.io/badge/Status-Active-blue.svg)](https://github.com/LasalJayawardena/AlgoExpert-Algorithms)
 [![Generic badge](https://img.shields.io/badge/lang-python-yellow.svg)](https://www.python.org/)
 [![Generic badge](https://img.shields.io/badge/lang-java-yellow.svg)](https://www.java.com/)
@@ -19,8 +18,9 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 #### Problem Difficulty:
 🟩 : Easy
 🟦 : Medium
-🟥 : Hard
-⬛ : Very Hard
+🟧 : Hard
+🟥 : Very Hard 
+⬛ : Extremely Hard
 
 | Problem ID  | Problem Statement | Difficulty | Solution |
 | :------: | ----------------- | :--------: | -------- |
