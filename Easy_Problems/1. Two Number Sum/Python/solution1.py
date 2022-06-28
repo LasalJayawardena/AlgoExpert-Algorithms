@@ -1,4 +1,5 @@
 # O(n^2) time | O(1) space
+# Brute Force Approach
 
 def twoNumberSum(array, targetSum):
     

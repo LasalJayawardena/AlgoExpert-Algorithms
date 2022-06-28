@@ -3,6 +3,7 @@ import java.util.Scanner;
 class Solution1{
 
     // O(n^2) time | O(1) space
+    // Brute Force Approach
     private static int[] findTwoSum_1(int[] nums, int target) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {

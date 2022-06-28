@@ -1,4 +1,5 @@
 # O(nlog(n)) | O(1) space
+# Pointer Approach (Sort + Two Pointers)
 
 def twoNumberSum(array, targetSum):
     array.sort()
