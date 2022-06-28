@@ -2,7 +2,9 @@
 
 The Repository contains Problems and Solutions for the AlgoExpert Algorithms Interview Questions. Solutions will be available in three languages: Python, Java and JavaScript. 
 
-<img src="/assets/logo.png" alt="AlgoExpert" width="500"/>
+<p align="center">
+  <img src="/assets/logo.png" alt="AlgoExpert" width="500" />
+<p>
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT "MIT License")
 ![GitHub repo size](https://img.shields.io/github/repo-size/LasalJayawardena/AlgoExpert-Algorithms)
