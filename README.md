@@ -22,9 +22,10 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 🟥 : Very Hard 
 ⬛ : Extremely Hard
 
-| Problem ID  | Problem Statement | Difficulty | Solution |
-| :------: | ----------------- | :--------: | -------- |
-| 001 | Two Number Sum | 🟩 | [Python](/Easy_Problems/1.%20Two%20Number%20Sum/Python/) <br> [Java](/Easy_Problems/1.%20Two%20Number%20Sum/Java/) <br> [JavaScript](/Easy_Problems/1.%20Two%20Number%20Sum/Javascript/) |
+| Problem ID  | Problem Statement | Difficulty | Solution | Approaches |
+| :------: | ----------------- | :--------: | -------- | -------- |
+| 001 | Two Number Sum | 🟩 | [Python](/Easy_Problems/1.%20Two%20Number%20Sum/Python/) <br> [Java](/Easy_Problems/1.%20Two%20Number%20Sum/Java/) <br> [JavaScript](/Easy_Problems/1.%20Two%20Number%20Sum/Javascript/) | Bruteforce, Pointers, Dictionary/Hashmaps
+| 002 | Validate Subsequence | 🟩 | [Python](/Easy_Problems/2.%20Validate%20Subsequence/Python/) <br> [Java](/Easy_Problems/2.%20Validate%20Subsequence/Java/) <br> [JavaScript](/Easy_Problems/2.%20Validate%20Subsequence/Javascript/) | Pointers 
 
 ## Feedback
 
