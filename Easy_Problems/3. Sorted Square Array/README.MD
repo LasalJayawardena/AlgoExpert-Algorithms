@@ -9,7 +9,7 @@
 ## Important Considerations
 
 - You must not modify the input array(need to create a new array).
-- Order of integers in the array/list is important.
+- The given array is sorted.
 - There can be negative integers in the array/list. 
 
 ## Example
