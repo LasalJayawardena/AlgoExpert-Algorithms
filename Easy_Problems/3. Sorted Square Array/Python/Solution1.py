@@ -3,9 +3,9 @@
 
 def sortSquareArray(array):
     
-    new_arr = [x**2 for x in array]
-    new_arr.sort()
-    return new_arr
+    sorted_arr = [x**2 for x in array]
+    sorted_arr.sort()
+    return sorted_arr
 
 
 # Tests for sortSqaureArray
