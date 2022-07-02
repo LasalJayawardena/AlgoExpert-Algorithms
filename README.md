@@ -27,6 +27,7 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 | 001 | Two Number Sum | 🟩 | [Python](/Easy_Problems/1.%20Two%20Number%20Sum/Python/) <br> [Java](/Easy_Problems/1.%20Two%20Number%20Sum/Java/) <br> [JavaScript](/Easy_Problems/1.%20Two%20Number%20Sum/Javascript/) | Bruteforce, Pointers, Dictionary/Hashmaps
 | 002 | Validate Subsequence | 🟩 | [Python](/Easy_Problems/2.%20Validate%20Subsequence/Python/) <br> [Java](/Easy_Problems/2.%20Validate%20Subsequence/Java/) <br> [JavaScript](/Easy_Problems/2.%20Validate%20Subsequence/Javascript/) | Pointers 
 | 003 | Sorted Square Array | 🟩 | [Python](/Easy_Problems/3.%20Sorted%20Square%20Array/Python/) <br> [Java](/Easy_Problems/3.%20Sorted%20Square%20Array/Java/) <br> [JavaScript](/Easy_Problems/3.%20Sorted%20Square%20Array/Javascript/) | Brute Force, Pointers
+| 004 | Tournament Winner | 🟩 | [Python](/Easy_Problems/4.%20Tournament%20Winner/Python/) <br> [Java](/Easy_Problems/4.%20Tournament%20Winner/Java/) <br> [JavaScript](/Easy_Problems/4.%20Tournament%20Winner/Javascript/) | Dictionary/Hashmaps + One Pass
 
 ## Feedback
 
