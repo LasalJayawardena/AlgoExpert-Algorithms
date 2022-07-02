@@ -10,7 +10,7 @@ function findTournamentWinner(competition_arr, results_arr) {
 
     for (let i = 0; i < competition_arr.length; i++) {
         const [homeTeam, awayTeam] = competition_arr[i];
-        const result = result_arr[i];
+        const result = results_arr[i];
 
         const winningTeam = result === HOME_TEAM_WON ? homeTeam : awayTeam;
 
@@ -27,4 +27,10 @@ function findTournamentWinner(competition_arr, results_arr) {
 function updateScores(scores, team) {
     const prevScore = scores[team] || 0;
     scores[team] = prevScore + POINTS;
+}
+
+findTournamentWinnerTest = () => {
+    console.log(findTournamentWinner([["A", "B"]], [1])) // A
+    console.log(findTournamentWinner([["A", "B"]], [0])) // B
+    console.log(findTournamentWinner([["HTML", "C#"], ["C#", "Python"], ["Python", "HTML"]], [0,0,1])) // Python
 }
