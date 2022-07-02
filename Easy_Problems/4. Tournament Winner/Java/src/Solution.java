@@ -36,4 +36,24 @@ public class Solution {
             scores.put(team, points);
         }
     }
+
+    public static void main(String[] args) {
+        // Tests for findTournamentWinner
+        String[][] competition_arr = {
+                {"HTML", "C#"}, {"C#", "Python"}, {"Python", "HTML"}
+        };
+        int[] results_arr = {0, 0, 1};
+        System.out.println(findTournamentWinner(competition_arr, results_arr)); // Python
+
+        competition_arr = new String[][]{
+                {"A", "B"},
+        };
+
+        results_arr = new int[]{1};
+        System.out.println(findTournamentWinner(competition_arr, results_arr)); // A
+
+        results_arr = new int[]{0};
+        System.out.println(findTournamentWinner(competition_arr, results_arr)); // B
+
+    }
 }
