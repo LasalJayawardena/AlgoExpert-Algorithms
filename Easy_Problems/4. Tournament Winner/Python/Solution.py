@@ -27,3 +27,6 @@ def updateScores(scores, team, points):
     scores[team] += points
 
 # Tests for findTournamentWinner
+assert(findTournamentWinner([["A", "B"]], [1]) == "A")
+assert(findTournamentWinner([["A", "B"]], [0]) == "B")
+assert(findTournamentWinner([["HTML", "C#"], ["C#", "Python"], ["Python", "HTML"]], [0,0,1]) == "Python")
