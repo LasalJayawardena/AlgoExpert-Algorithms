@@ -7,7 +7,7 @@
 // We have also V which represents the new coin we add to our set. If V > C + 1, we cannot make C + 1 change; if V <= C + 1, we can make from C to C + V change, and the minimum amount of change we cannot create is C + V + 1.
 
 
-function nonConstructibleChange(coins) {
+function getNonConstructibleChange(coins) {
     coins.sort((a, b) => a - b);
 
     let currentChangeCreated = 0;
@@ -20,4 +20,10 @@ function nonConstructibleChange(coins) {
     }
 
     return currentChangeCreated + 1;
+}
+
+const testNonConstructibleChange = () => {
+    console.log(getNonConstructibleChange([5, 7, 1, 1, 2, 3, 22])) // 20
+    console.log(getNonConstructibleChange([5])) // 1
+    console.log(getNonConstructibleChange([1,2,5])) // 4
 }
