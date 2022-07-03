@@ -18,3 +18,11 @@ def getNonConstructibleChange(coins):
         currentChangeCreated += coin
 
     return currentChangeCreated + 1
+
+# Tests for getNonConstructibleChange
+def testGetNonConstructibleChange():
+    assert(getNonConstructibleChange([5, 7, 1, 1, 2, 3, 22]) == 20)
+    assert(getNonConstructibleChange([5]) == 1)
+    assert(getNonConstructibleChange([1,2,5]) == 4)
+    
+    
