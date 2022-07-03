@@ -28,6 +28,8 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 | 002 | Validate Subsequence | 🟩 | [Python](/Easy_Problems/2.%20Validate%20Subsequence/Python/) <br> [Java](/Easy_Problems/2.%20Validate%20Subsequence/Java/) <br> [JavaScript](/Easy_Problems/2.%20Validate%20Subsequence/Javascript/) | Pointers 
 | 003 | Sorted Square Array | 🟩 | [Python](/Easy_Problems/3.%20Sorted%20Square%20Array/Python/) <br> [Java](/Easy_Problems/3.%20Sorted%20Square%20Array/Java/) <br> [JavaScript](/Easy_Problems/3.%20Sorted%20Square%20Array/Javascript/) | Brute Force, Pointers
 | 004 | Tournament Winner | 🟩 | [Python](/Easy_Problems/4.%20Tournament%20Winner/Python/) <br> [Java](/Easy_Problems/4.%20Tournament%20Winner/Java/) <br> [JavaScript](/Easy_Problems/4.%20Tournament%20Winner/Javascript/) | Dictionary/Hashmaps + One Pass
+| 005 | Non Constructible Change | 🟩 | [Python](/Easy_Problems/5.%20Non%20Constructible%20Change/Python/) <br> [Java](/Easy_Problems/5.%20Non%20Constructible%20Change/Java/) <br> [JavaScript](/Easy_Problems/5.%20Non%20Constructible%20Change/Javascript/) | Optimized Logic
+
 
 ## Feedback
 
