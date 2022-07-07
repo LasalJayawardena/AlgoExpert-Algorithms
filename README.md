@@ -29,8 +29,7 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 | 003 | Sorted Square Array | 🟩 | [Python](/Easy_Problems/3.%20Sorted%20Square%20Array/Python/) <br> [Java](/Easy_Problems/3.%20Sorted%20Square%20Array/Java/) <br> [JavaScript](/Easy_Problems/3.%20Sorted%20Square%20Array/Javascript/) | Brute Force, Pointers
 | 004 | Tournament Winner | 🟩 | [Python](/Easy_Problems/4.%20Tournament%20Winner/Python/) <br> [Java](/Easy_Problems/4.%20Tournament%20Winner/Java/) <br> [JavaScript](/Easy_Problems/4.%20Tournament%20Winner/Javascript/) | Dictionary/Hashmaps + One Pass
 | 005 | Non Constructible Change | 🟩 | [Python](/Easy_Problems/5.%20Non%20Constructible%20Change/Python/) <br> [Java](/Easy_Problems/5.%20Non%20Constructible%20Change/Java/) <br> [JavaScript](/Easy_Problems/5.%20Non%20Constructible%20Change/Javascript/) | Optimized Logic
-| 006 | Find Closest Value In BST| 🟩 | [Python] [Java] [JavaScript
-
+| 006 | Find Closest Value In BST| 🟩 | [Python](/Easy_Problems/6.%20Find%20Closest%20Value%20In%20BST/Python/) <br> [Java](/Easy_Problems/6.%20Find%20Closest%20Value%20In%20BST/Java/) <br> [JavaScript](/Easy_Problems/6.%20Find%20Closest%20Value%20In%20BST/Javascript/) | Recursion, Iterative Approach
 
 
 ## Feedback
