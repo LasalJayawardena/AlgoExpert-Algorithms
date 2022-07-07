@@ -49,6 +49,12 @@ public class BST {
         }
         return minval;
     }
+    
+    void build(int[] arr){
+        for(int v : arr){
+            insert(v);
+        }
+    }
 
     // insert a node in BST
     void insert(int value)  {

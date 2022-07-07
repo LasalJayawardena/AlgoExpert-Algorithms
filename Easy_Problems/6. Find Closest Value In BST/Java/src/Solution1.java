@@ -4,6 +4,7 @@ public class Solution1 {
     public static int findClosestValueInBst(BST tree, int target) {
         return findClosestValueInBst(tree.root, target, Double.MAX_VALUE);
     }
+
     public static int findClosestValueInBst(Node tree, int target, double closest){
          if (Math.abs(target - closest) > Math.abs(target - tree.value)) {
                 closest = tree.value;
@@ -17,4 +18,8 @@ public class Solution1 {
             }
         }
 
+    public static void main(String[] args) {
+        Solution1 bst_Sol = new Solution1();
+        BST bst = new BST();
+    }
 }
