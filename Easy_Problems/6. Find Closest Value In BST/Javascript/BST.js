@@ -28,10 +28,10 @@ class BinarySearchTree {
     }
 
     buildTree(arr) {
-        for (lwt i = 0; i < arr.length; i++) {
+        for (let i = 0; i < arr.length; i++) {
             this.insert(arr[i]);
         }
     }
 }
 
-
+exports.BinarySearchTree = BinarySearchTree;
