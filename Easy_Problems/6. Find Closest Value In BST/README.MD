@@ -1,25 +1,34 @@
-# Problem 5 - Non Constructible Change
+# Problem 6 - Find Closest Value In BST
 --------------------
 
 ## Problem Definition
 
-<p>Given an array/list of integers which represent the coins we have in our possession, return the minimum amount of change that cannot be created.</p>
+<p>Given a Binary Search Tree(BST) populated with integers and a target integer, return the value in the BST that is closest to the target.</p>
 <b>Aim: Solve with Minimum Time Complexity and Space Complexity.</b>
 
 ## Important Considerations
 
-- There can be coins of the same value(Duplicates).
-- Coins are in cents ₵.
-- There are no negative integers.
+- The BST passed is valid.
+- There can only be one closest value.
+- There can be negative integers.
 
 
 ## Example
 ```python
-# list of integers
+# BST and Target
 
-coins = [5, 7, 1, 1, 2, 3, 22]
+bst = BST([....])
+# Visulization of the BST
+-------------------------
+#       10
+#     /    \
+#    4      20
+#  /   \
+# 1     6
 
-# Function must return 20 (which represents 20₵)
+target = 5
+
+# Function must return 4 
 ```
 
 ## Solutions
