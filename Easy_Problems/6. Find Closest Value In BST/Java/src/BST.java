@@ -1,14 +1,5 @@
 public class BST {
     //node class that defines BST node
-    class Node {
-        int value;
-        Node left, right;
-
-        public Node(int data){
-            value = data;
-            left = right = null;
-        }
-    }
     // BST root node
     public Node root;
 
@@ -96,10 +87,7 @@ public class BST {
 
     boolean search(int value)  {
         root = search_Recursive(root, value);
-        if (root!= null)
-            return true;
-        else
-            return false;
+        return root != null;
     }
 
     //recursive insert function
