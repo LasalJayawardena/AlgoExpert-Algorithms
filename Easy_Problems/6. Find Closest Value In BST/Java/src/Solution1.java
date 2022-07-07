@@ -1,6 +1,7 @@
 public class Solution1 {
     // Average: O(log(n)) time | O(log(n)) space
     // Worst: O(n) time | O(n) space
+    // Recursive solution
     public static int findClosestValueInBst(BST tree, int target) {
         return findClosestValueInBst(tree.root, target, Double.MAX_VALUE);
     }
