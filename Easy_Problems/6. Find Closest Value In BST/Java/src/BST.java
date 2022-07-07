@@ -49,7 +49,7 @@ public class BST {
         }
         return minval;
     }
-    
+
     void build(int[] arr){
         for(int v : arr){
             insert(v);
