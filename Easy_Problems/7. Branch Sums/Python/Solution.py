@@ -21,3 +21,7 @@ def calculateBranchSums(node, runningSum, sums):
     calculateBranchSums(node.left, newRunningSum, sums)
     calculateBranchSums(node.right, newRunningSum, sums)
 
+
+# Tests for findClosestValueInBst
+tree = build_tree([1, 3, -1, 7, 2])
+assert(getBranchSums(tree) == [0, 6, 11])
