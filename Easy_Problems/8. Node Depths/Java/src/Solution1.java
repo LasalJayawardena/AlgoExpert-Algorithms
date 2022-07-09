@@ -30,4 +30,19 @@ public class Solution1 {
             this.depth = depth;
         }
     }
+
+
+    public static void main(String[] args) {
+        BST bst = new BST();
+        bst.build(new int[]{1, 3, -1, 7, 2});
+        System.out.println(calculateNodeDepths(bst.root)); // 6
+
+        bst = new BST();
+        bst.build(new int[]{1, 3, -1, 7, 2, 8, 10, 11});
+        System.out.println(calculateNodeDepths(bst.root)); // 18
+
+        bst = new BST();
+        bst.build(new int[]{1});
+        System.out.println(calculateNodeDepths(bst.root)); // 0
+    }
 }
