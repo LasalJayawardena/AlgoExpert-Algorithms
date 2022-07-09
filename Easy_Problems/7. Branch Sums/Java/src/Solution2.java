@@ -41,5 +41,11 @@ public class Solution2 {
             this.runningSum = runningSum;
         }
     }
-    
+
+    public static void main(String[] args) {
+        BST bst = new BST();
+        bst.build(new int[]{1, 3, -1, 7, 2});
+
+        System.out.println(getBranchSums(bst)); // [0, 6, 11]
+    }
 }
