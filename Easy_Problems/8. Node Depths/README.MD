@@ -3,8 +3,8 @@
 
 ## Problem Definition
 
-<p>Given a Binary Search Tree(BST), calculate the depth of *each* node and return return the sum of all nodes' depths.</p>
-<p>Depth - Distance from root.</p>
+<p>Given a Binary Search Tree(BST), calculate the depth of *each* node and return the sum of all nodes' depths.</p>
+<p>Depth - Distance from a particular node to root node.</p>
 <b>Aim: Solve with Minimum Time Complexity and Space Complexity.</b>
 
 ## Important Considerations
