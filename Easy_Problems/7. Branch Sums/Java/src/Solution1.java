@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Solution {
+public class Solution1 {
     // O(n) time | O(n) space - where n is the number of nodes in the Bi
     public static List<Integer> getBranchSums(BST tree) {
         List<Integer> sums = new ArrayList<>();
