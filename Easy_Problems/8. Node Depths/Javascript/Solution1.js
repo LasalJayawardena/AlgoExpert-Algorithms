@@ -2,7 +2,7 @@
 // O(n) time | O(h) space - where n is the number of nodes and h is the height of the Binary Tree.
 
 
-function nodeDepths(root) {
+function calculateNodeDepths(root) {
     let sumOfDepths = 0;
     const stack = [{ node: root, depth: 0 }];
     while (stack.length > 0) {
