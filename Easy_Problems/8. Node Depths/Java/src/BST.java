@@ -40,7 +40,7 @@ public class BST {
     }
 
     int minValue(Node root)  {
-        //initially minval = root
+        // initially minval = root
         int minval = root.value;
         //find minval
         while (root.left != null)  {
