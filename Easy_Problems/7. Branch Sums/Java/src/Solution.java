@@ -17,7 +17,7 @@ public class Solution {
             sums.add(newRunningSum);
             return;
         }
-        
+
         calculateBranchSums(node.left, newRunningSum, sums);
         calculateBranchSums(node.right, newRunningSum, sums);
     }
