@@ -25,3 +25,8 @@ def getBranchSums(root):
         stack.append({"node": node.right, "runningSum": newRunningSum})
 
     return sums
+
+
+# Tests for getBranchSums
+tree = build_tree([1, 3, -1, 7, 2])
+assert(set(getBranchSums(tree)) == set([0, 6, 11]))
