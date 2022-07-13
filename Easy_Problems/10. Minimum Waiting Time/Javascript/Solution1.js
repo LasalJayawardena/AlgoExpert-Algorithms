@@ -15,3 +15,11 @@ function getTotalMinWaitingTime(queries) {
   
     return totalWaitingTime;
 }
+
+
+// Tests for getTotalMinWaitingTime
+const testGetTotalMinWaitingTime = () => {
+    console.log(getTotalMinWaitingTime([3, 2, 1, 2, 6]) == 17)
+    console.log(getTotalMinWaitingTime([10]) == 0)
+    console.log(getTotalMinWaitingTime([1, 10]) == 1)
+}
