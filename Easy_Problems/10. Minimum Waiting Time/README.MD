@@ -13,6 +13,7 @@
 - Only one query can be executed at a time. 
 - Queries can be executed in any order.
 - Mutatation of the input array is allowed.
+- Atleast one query is given.
 
 
 ## Example
