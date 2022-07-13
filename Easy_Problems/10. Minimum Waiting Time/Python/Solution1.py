@@ -12,3 +12,8 @@ def get_total_min_waiting_time(queries):
         next_waiting_time += duration
     
     return total_waiting_time
+
+# Tests for get_total_min_waiting_time
+assert(get_total_min_waiting_time([3, 2, 1, 2, 6]) == 17)
+assert(get_total_min_waiting_time([10]) == 0)
+assert(get_total_min_waiting_time([1, 10]) == 1)
