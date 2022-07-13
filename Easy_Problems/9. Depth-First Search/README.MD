@@ -31,6 +31,13 @@ total time = ∑<sub>v ∈ V</sub>_(1 + m<sub>v</sub>)_ = |V| + ∑<sub>v ∈ V<
 
 In a directed graph, ∑<sub>v ∈ V</sub>_m<sub>v</sub>_ is equal to |E|, whereas in an undirected graph, we have ∑<sub>v ∈ V</sub>_m<sub>v</sub>_ = 2|E|. Thus the time complexity of DFS is O(|V| + |E|).
 
+
+<br>
+
+**Reference**: [Verifying DFS complexity for directed and un-directed graph](https://stackoverflow.com/questions/24024331/verifying-dfs-complexity-for-directed-and-un-directed-graph)
+
+**Additional Video Reference**:[ DFS Explained](https://www.youtube.com/watch?v=PMMc4VsIacU)
+
 ## Solutions
 
 1. Python Implementations: [Solution](Python/)
