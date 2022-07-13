@@ -33,6 +33,8 @@ The Repository contains Problems and Solutions for the AlgoExpert Algorithms Int
 | 007 | <a href="/Easy_Problems/7.%20Branch%20Sums/" style="text-decoration:none;"> Branch Sums </a> | 🟩 | [Python](/Easy_Problems/7.%20Branch%20Sums/Python/) <br> [Java](/Easy_Problems/7.%20Branch%20Sums/Java/) <br>  [JavaScript](/Easy_Problems/7.%20Branch%20Sums/Javascript/) | Recursion, Iterative Approach 
 | 008 | <a href="/Easy_Problems/8.%20Node%20Depths/" style="text-decoration:none;"> Node Depths </a>| 🟩 | [Python](/Easy_Problems/8.%20Node%20Depths/Python/) <br> [Java](/Easy_Problems/8.%20Node%20Depths/Java/) <br>  [JavaScript](/Easy_Problems/8.%20Node%20Depths/Javascript/) | Iterative Approach, Recursion
 | 009 | <a href="/Easy_Problems/9.%20Depth-First%20Search/" style="text-decoration:none;"> Depth First Search </a>| 🟩 | [Python](/Easy_Problems/9.%20Depth-First%20Search/Python/) <br> [Java](/Easy_Problems/9.%20Depth-First%20Search/Java/) <br>  [JavaScript](/Easy_Problems/9.%20Depth-First%20Search/Javascript/) | Classical(Recursion)
+| 010 | <a href="/Easy_Problems/10.%20Minimum%20Waiting%20Time/" style="text-decoration:none;"> Minimum Waiting Time </a>| 🟩 | [Python](/Easy_Problems/10.%20Minimum%20Waiting%20Time/Python/) <br> [Java](/Easy_Problems/10.%20Minimum%20Waiting%20Time/Java/) <br>  [JavaScript](/Easy_Problems/10.%20Minimum%20Waiting%20Time/Javascript/) | Classical(Recursion)
+
 ## Feedback
 
 If you have any feedback, please reach out to me via my socials. Hope you enjoy the Repo !!!
