@@ -5,7 +5,7 @@
 
 <p>Given an array of positive integers. Each integer in the input array represents the duration of a query that needs to be executed.</p>
 <p>Write a function that is going to return the minimum amount of <b>total waiting time</b> for all the queries.</p>
-<p>Waiting time - Amount of time a query waites till it starts execcuting.</p>
+<p>Waiting time - Amount of time a query waites till it starts executing.</p>
 <b>Aim: Solve with Minimum Time Complexity and Space Complexity.</b>
 
 ## Important Considerations
